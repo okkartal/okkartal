@@ -1,4 +1,4 @@
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=mohit01-beep&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=okadirkartal&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/okadirkartal/okadirkartal?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
  <a href="https://www.hackerrank.com/okadirkartal" target="_blank">
