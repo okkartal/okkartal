@@ -1,16 +1,16 @@
 <table style="border-width:0px;">
   <tr>
     <td><img alt="Visitors" src="https://komarev.com/ghpvc/?username=okadirkartal&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
-    <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/okadirkartal/okadirkartal?logo=markdown&label=LAST+UPDATE&color=29bf12">
+    <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/okkartal/okkartal?logo=markdown&label=LAST+UPDATE&color=29bf12">
 </td>
     <td><a href="https://www.hackerrank.com/okadirkartal" target="_blank">
-  <img align="left" alt="Kadir's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a></td>
+  <img align="left" alt="Osman Kartal's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a></td>
    
   </tr>
 </table>
- <img   src="https://github-readme-stats.vercel.app/api?username=okadirkartal&show_icons=true">
+ <img   src="https://github-readme-stats.vercel.app/api?username=okkartal&show_icons=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okadirkartal&layout=compact)](https://github.com/okadirkartal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okkartal&layout=compact)](https://github.com/okkartal/github-readme-stats)
 
 <br />
  
