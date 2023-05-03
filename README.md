@@ -1,6 +1,6 @@
 <table style="border-width:0px;">
   <tr>
-    <td><img alt="Visitors" src="https://komarev.com/ghpvc/?username=okadirkartal&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
+    <td><img alt="Visitors" src="https://komarev.com/ghpvc/?username=okkartal&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
     <td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/okkartal/okkartal?logo=markdown&label=LAST+UPDATE&color=29bf12">
 </td>
     <td><a href="https://www.hackerrank.com/okkartal" target="_blank">
