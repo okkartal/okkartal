@@ -46,7 +46,7 @@
         </tr>
         <tr>
            <td colspan="5">
-             <a   title="Exam 483: Programming in C#" href="https://learn.microsoft.com/en-us/users/osmankartal-1618/credentials/a8cc0abebbf7ab72" target="_blank">
+             <a   title="Exam AZ900: Azure Fundamentals" href="https://learn.microsoft.com/en-us/users/osmankartal-1618/credentials/a8cc0abebbf7ab72" target="_blank">
                 <img  src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="110" alt="Azure Fundamentals" height="110">
                 </a>
            </td>
